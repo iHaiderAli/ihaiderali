@@ -182,7 +182,7 @@ const haider = {
 🌱 **Exploring cloud computing and microservices architecture**  
 👥 **Open to collaborate on innovative open-source projects**  
 💬 **Always happy to discuss tech, coding, and new ideas**  
-📧 **Let's connect:** [chamithsandeepa321@gmail.com](mailto:chamithsandeepa321@gmail.com)  
+📧 **Let's connect:** [ihaiderali.arif@gmail.com](mailto:ihaiderali.arif@gmail.com)  
 ⚡ **Motto:** *"Turning caffeine into code, one commit at a time!"* ☕
 
 </div>
@@ -218,17 +218,17 @@ const haider = {
 ## <div align="center">🤝 Let's Connect</div>
 
 <div align="center">
-<a href="mailto:chamithsandeepa321@gmail.com">
+<a href="mailto:ihaiderali.arif@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/chamithsandeepa">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/chamithsandeepa">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://www.upwork.com/freelancers/ihaiderali">
+<img src="https://img.shields.io/badge/Upwork-1DA1F2?style=for-the-badge&logo=upwork&logoColor=white" />
 </a>
-<a href="https://instagram.com/chamithsandeepa">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.fiverr.com/sellers/ihaiderali">
+<img src="https://img.shields.io/badge/Fiver-E4405F?style=for-the-badge&logo=fiver&logoColor=white" />
 </a>
 </div>
 
@@ -257,7 +257,7 @@ const haider = {
 
 - 👯 I’m looking to collaborate on **New Projects ☺**
 
-- 📫 How to reach me **chamithsandeepa321@gmail.com**
+- 📫 How to reach me **ihaiderali.arif@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
