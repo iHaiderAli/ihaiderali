@@ -1,6 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Haider%20Ali&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Next.js,%20React.js%20React%20Native,%20Android%20%7C%20Engineer&descAlignY=55&descAlign=62" />
 </div>
+<div align="right">
+  <a href="https://portfolio-ochre-xi-73.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Click%20Here-007BFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" onClick={}/>
+    </a>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer;💡+Problem+Solver+%26+Innovator;⚡+Always+Learning+New+Technologies;🌟+Building+Digital+Solutions" alt="Typing SVG" />
@@ -22,7 +27,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td>
 
 ### 💫 **Professional Summary**
 
@@ -52,17 +57,6 @@ const haider = {
     motto: "Code. Create. Innovate. Repeat."
 };
 ```
-
-</td>
-<td width="40%" valign="top">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=chamithsandeepa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true" width="100%" />
-</div>
 
 </td>
 </tr>
