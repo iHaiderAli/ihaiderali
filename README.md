@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Haider%20Ali&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Next.js,%20React.js%20React%20Native,%20Android%20%7C%20Engineer&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Haider%20Ali&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Mobile%20Applications%20Developer&descAlignY=55&descAlign=50" />
 </div>
 <div align="right">
   <a href="https://portfolio-ochre-xi-73.vercel.app" target="_blank">
