@@ -113,15 +113,15 @@ const haider = {
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=chamithsandeepa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ihaiderali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="100%" />
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chamithsandeepa&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ihaiderali&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" width="100%" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamithsandeepa&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihaiderali&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" width="70%" />
 </div>
 
 <div align="center">
@@ -131,7 +131,7 @@ const haider = {
 ## <div align="center">🏆 Achievements</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chamithsandeepa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ihaiderali&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
 </div>
 
 <div align="center">
