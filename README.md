@@ -1,11 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Haider%20Ali&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Mobile%20Applications%20Developer&descAlignY=55&descAlign=50" />
 </div>
-<div align="right">
-  <a href="https://portfolio-ochre-xi-73.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Click%20Here-007BFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" onClick={}/>
-    </a>
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer;💡+Problem+Solver+%26+Innovator;⚡+Always+Learning+New+Technologies;🌟+Building+Digital+Solutions" alt="Typing SVG" />
@@ -37,6 +32,12 @@
 ❤️ **Passion:** Coding • Learning • Innovation  
 🎯 **Focus:** Building amazing web applications  
 ✅ **Status:** Open to Work & Collaboration  
+You can reach me through: <a href="https://portfolio-ochre-xi-73.vercel.app" title="Portfolio" target="_blank"><img alt="Email"  src="https://img.shields.io/badge/portfolio-f59042?style=for-the-badge&logo=portfolio&logoColor=white" height="30" align="center" onClick={}/></a>
+<a href="mailto:hey@ihaiderali.arif@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> 
+<a href="https://wa.me/923234245158" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> 
+<a href="https://www.linkedin.com/in/ihaiderali/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /> </a> 
+<a href="https://www.upwork.com/freelancers/ihaiderali"> <img alt="Upwork" src="https://img.shields.io/badge/Upwork-1DA1F2?style=for-the-badge&logo=upwork&logoColor=white"  align="center" /> </a>
+<a href="https://www.fiverr.com/sellers/ihaiderali"> <img alt="Fiver" src="https://img.shields.io/badge/Fiver-E4405F?style=for-the-badge&logo=fiver&logoColor=white"  align="center" /> </a>
 
 ---
 
@@ -212,17 +213,12 @@ const haider = {
 ## <div align="center">🤝 Let's Connect</div>
 
 <div align="center">
-<a href="mailto:ihaiderali.arif@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/chamithsandeepa">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.upwork.com/freelancers/ihaiderali">
-<img src="https://img.shields.io/badge/Upwork-1DA1F2?style=for-the-badge&logo=upwork&logoColor=white" />
-</a>
-<a href="https://www.fiverr.com/sellers/ihaiderali">
-<img src="https://img.shields.io/badge/Fiver-E4405F?style=for-the-badge&logo=fiver&logoColor=white" />
+<a href="https://portfolio-ochre-xi-73.vercel.app" title="Portfolio" target="_blank"><img alt="Email"  src="https://img.shields.io/badge/portfolio-f59042?style=for-the-badge&logo=portfolio&logoColor=white" height="30" align="center"/></a>
+<a href="mailto:ihaiderali.arif@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> 
+<a href="https://wa.me/923234245158" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> 
+<a href="https://www.linkedin.com/in/ihaiderali/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /> </a> 
+<a href="https://www.upwork.com/freelancers/ihaiderali"> <img alt="Upwork" src="https://img.shields.io/badge/Upwork-1DA1F2?style=for-the-badge&logo=upwork&logoColor=white"  align="center" /> </a>
+<a href="https://www.fiverr.com/sellers/ihaiderali"> <img alt="Fiver" src="https://img.shields.io/badge/Fiver-E4405F?style=for-the-badge&logo=fiver&logoColor=white"  align="center" /> </a>
 </a>
 </div>
 
